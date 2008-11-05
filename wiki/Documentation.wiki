@@ -1,5 +1,3 @@
-#The Documentation effort of the MindMapper Project.
-
 = Introduction =
 
 Documentation will happen in two phases:
