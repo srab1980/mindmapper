@@ -1,0 +1,8 @@
+#The Documentation effort of the MindMapper Project.
+
+= Introduction =
+
+Documentation will happen in two phases:
+
+  * Produce Javadoc (26 Java files to go).
+  * Write an overview of the architecture so far.
